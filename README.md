@@ -238,3 +238,6 @@ This repository serves as the official landing page for Driver Turbo. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Driver Turbo today!**
+
+---
+**Last updated:** 2026-09-07 16:56:18 UTC
